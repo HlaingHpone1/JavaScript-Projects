@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  box-sizing: border-box;
+}
+
+.container__title {
+  margin-bottom: 30px;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 700;
+}
+.container__list {
+  text-align: center;
+}
+.container__list li {
+  margin: 0;
+  padding: 0;
+}
+.container__list li a {
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 500;
+  color: #000;
+}/*# sourceMappingURL=style.css.map */
